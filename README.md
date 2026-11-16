@@ -1,5 +1,7 @@
 # poecor-api
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24274702.svg)](https://doi.org/10.5281/zenodo.24274702)
+
 The API of PoeCor ("Poetry Corpora"): a DraCor-like API to the data of the [POSTDATA](https://postdata.linhd.uned.es) project (Poetry Standardization and Linked Open Data, ERC Starting Grant 2015, grant agreement No. 679528; LINHD, UNED Madrid).
 
 > **Archived.** This repository is no longer maintained. poecor.org was shut down in November 2026.
@@ -61,7 +63,7 @@ poetic corpora.
 
 ## Citation
 
-See `CITATION.cff`. The software is archived on Zenodo (see the DOI in the repository description and the release `2026-11-16-archive`). When referring to the work, please also cite the report (DOI above).
+See `CITATION.cff`. The software is archived on Zenodo: https://doi.org/10.5281/zenodo.24274702 (all versions; the release `2026-11-16-archive` is the archived state). When referring to the work, please also cite the report (DOI above).
 
 ## Licence
 
